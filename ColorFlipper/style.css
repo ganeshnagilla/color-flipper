@@ -1,0 +1,44 @@
+#header {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:cornflowerblue;
+}
+
+.navbar {
+    background-color:azure;
+    padding: 20px;
+}
+
+#container{
+    position: relative;
+    padding: 200px;
+}
+
+#simple, #hex{
+    color: azure;
+    background-color:cornflowerblue;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+
+
+#main {
+    text-align: center;
+    background-color:darkslategray;
+    color: white;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    width: 250px;
+    margin-left: 300px;
+    margin-right: 300px;
+    justify-content: center;
+}
+
+#buttonid {
+    margin-bottom: 50%;
+    margin-left: 50% ;
+
+}
